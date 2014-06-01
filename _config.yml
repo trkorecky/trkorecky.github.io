@@ -5,6 +5,7 @@ description: "Personal portfolio website for game developer Tim Korecky. Check o
 baseurl: ""
 url: "http://timkorecky.com"
 username: trkorecky
+linkedinname: timothykorecky
 
 # Build settings
 markdown: kramdown
